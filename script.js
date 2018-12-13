@@ -28,8 +28,8 @@
 // let answer = prompt("18+ ?", "da");
 // console.log(typeof(photos));
 
-// console.log("arr"+"obkekt");
-// console.log(4+"obkekt");
+console.log("arr"+"obkekt");
+console.log(4+"obkekt");
 
 let incr = 10,
     decr = 10;
